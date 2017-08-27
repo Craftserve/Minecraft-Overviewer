@@ -1,19 +1,19 @@
-====================
+====================================
 Minecraft Overviewer  |Build Status|
-====================
+====================================
 By Andrew Brown and contributors (see CONTRIBUTORS.rst).
 
 Documentation:
     http://docs.overviewer.org
 
 Github code repository:
-    http://github.com/overviewer/Minecraft-Overviewer
+    https://github.com/overviewer/Minecraft-Overviewer
 
 Travis-CI:
-    http://travis-ci.org/overviewer/Minecraft-Overviewer
+    https://travis-ci.org/overviewer/Minecraft-Overviewer
 
 Blog:
-    http://overviewer.org/blog/
+    https://overviewer.org/blog/
 
 
 The Minecraft Overviewer is a command-line tool for rendering high-resolution
